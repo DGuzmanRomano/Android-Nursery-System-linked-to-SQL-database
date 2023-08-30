@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Guardería</string>
+    <string name="garden_name">Guardería</string>
+    <string name="logo_description">Logo de la guardería</string>
+    <string name="username_hint">Nombre de usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+
+    <string name="register_child">Registrar Nuevo Niño</string>
+    <string name="group_prompt">Selecciona un grupo</string>
+    <string-array name="group_names">
+        <item>Grupo 1</item>
+        <item>Grupo 2</item>
+        <item>Grupo 3</item>
+        <!-- ... agrega más grupos si es necesario ... -->
+    </string-array>
+
+    <string name="child_id_hint">ID del niño</string>
+    <string name="child_name_hint">Nombre del niño</string>
+    <string name="child_age_hint">Edad del niño</string>
+    <string name="child_gender_hint">Género del niño</string>
+    <string name="child_group_hint">Grupo del niño</string>
+    <string name="parent_email_hint">Correo electrónico del padre</string>
+    <string name="complete_registration">Completar registro</string>
+
+    <string name="date_spinner_prompt">Selecciona una fecha</string>
+    <string name="new_incident_report">Nuevo reporte de incidentes</string>
+    <string name="announcement_hint">Escribe tu anuncio aquí</string>
+    <string name="post_announcement">Publicar anuncio</string>
+
+    <string name="visualizacion_reporte_title">Visualización del reporte</string>
+    <string name="nombre_label">Nombre:</string>
+    <string name="comentario_label">Comentario:</string>
+    <string name="hora_entrada_label">Hora de entrada:</string>
+    <string name="comidas_label">Comidas:</string>
+    <string name="evacuaciones_label">Evacuaciones:</string>
+    <string name="micciones_label">Micciones:</string>
+    <string name="cambios_ropa_label">Comidas:</string>
+    <string name="incidencias_clase_label">Incidencias de clase:</string>
+    <string name="incidencias_medicas_label">Incidencias médicas:</string>
+    <string name="menu_label">Menú:</string>
+    <string name="Hora_salida_label">Hora de salida:</string>
+
+    <string name="announcements_label">Anuncios:</string>
+    <string name="reports_label">Reportes de incidentes:</string>
+    <string name="fecha_label">Fecha:</string>
+
+
+</resources>

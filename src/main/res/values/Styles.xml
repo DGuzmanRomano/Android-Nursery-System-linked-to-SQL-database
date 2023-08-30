@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTimePicker" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:timePickerStyle">@style/CustomTimePickerStyle</item>
+    </style>
+
+    <style name="CustomTimePickerStyle" parent="android:Theme.DeviceDefault.Light">
+        <item name="android:numbersTextColor">@android:color/black</item>
+        <item name="android:numbersBackgroundColor">@android:color/transparent</item>
+        <item name="android:headerBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="BlackDatePicker" parent="android:Widget.Material.Light.DatePicker">
+        <item name="android:textColorPrimary">#000000</item>
+    </style>
+
+</resources>
